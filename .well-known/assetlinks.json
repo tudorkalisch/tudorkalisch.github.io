@@ -33,4 +33,13 @@
     "sha256_cert_fingerprints":
     ["39:99:1D:21:DD:B5:0D:C1:27:0F:B2:E5:BF:BE:FC:E5:32:EA:62:58:AA:F0:52:FB:56:C2:8F:F3:B7:64:AC:D4"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "nl.enovation.zorgmailchat.performace",
+    "sha256_cert_fingerprints":
+    ["39:99:1D:21:DD:B5:0D:C1:27:0F:B2:E5:BF:BE:FC:E5:32:EA:62:58:AA:F0:52:FB:56:C2:8F:F3:B7:64:AC:D4"]
+  }
 }]
